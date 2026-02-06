@@ -1,2 +1,2 @@
 # Gabriel131
-# *HELLO*
+# *Hello Class CPSC 131
