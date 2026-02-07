@@ -9,6 +9,6 @@ My submission for Homework 1
 * Email: tanslim360@csu.fullerton.edu
 
 # My Thoughts
-* Today, I'm feeling productive. I need to finish my homework so I can have fun>
+* Today, I'm feeling productive. I need to finish my homework so I can have fun later hehe.
 
-I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work
+I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
